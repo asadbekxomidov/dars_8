@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "945655505836",
+    "project_id": "lesson7-e4d27",
+    "storage_bucket": "lesson7-e4d27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945655505836:android:da3539374f22f5d6679009",
+        "android_client_info": {
+          "package_name": "com.example.dars_8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuHXO5mFXJwxzj4-uI6r0zWE7dNLAzt_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
